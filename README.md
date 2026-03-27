@@ -8,6 +8,8 @@ This project simulates analysis performed by a marketplace growth or strategy an
 
 ## Dashboard Preview
 
+![Dashboard Screenshot](assets/airbnb-growth-analysis-dashboard.png)
+
 Interactive Tableau workbook available in:
 
 ```
