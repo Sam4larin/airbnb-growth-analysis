@@ -57,17 +57,17 @@ Marketplace platforms depend on healthy supply participation, balanced revenue d
 
 ## Key Findings
 
-### 1️⃣ NYC Premium Neighbourhoods Show High Non-Conversion Rates
+### 1️. NYC Premium Neighbourhoods Show High Non-Conversion Rates
 
 Several high-demand Manhattan neighbourhoods exhibit unusually large shares of listings that have never received a review (used as a booking proxy):
 
-- Battery Park City — 53.6% never booked  
-- Theatre District — 49.9%  
-- Tribeca — 47.8%  
-- Murray Hill — 46.1%  
-- Financial District — 45.0%  
+- Battery Park City - 53.6% never booked  
+- Theatre District - 49.9%  
+- Tribeca - 47.8%  
+- Murray Hill - 46.1%  
+- Financial District - 45.0%  
 
-Hosts in these areas average 9–10 years on the platform, indicating long-tenured inactive supply rather than newly created listings.
+Hosts in these areas average 9-10 years on the platform, indicating long-tenured inactive supply rather than newly created listings.
 
 **Comparison:**
 
@@ -78,7 +78,7 @@ NYC demonstrates materially higher structural non-conversion.
 
 ---
 
-### 2️⃣ London Revenue Is Highly Concentrated Among Professional Hosts
+### 2️. London Revenue Is Highly Concentrated Among Professional Hosts
 
 Revenue distribution in London is strongly top-heavy:
 
@@ -96,7 +96,7 @@ Regulatory constraints (night caps and permits) appear to limit operator dominan
 
 ---
 
-### 3️⃣ Listing Conversion Is Extremely Slow Across Markets
+### 3️. Listing Conversion Is Extremely Slow Across Markets
 
 Across cities and room types, the most common outcome is:
 
@@ -112,7 +112,7 @@ Median time-to-first-booking for Amsterdam entire homes exceeds 7 years.
 
 **Fastest converting category:**
 
-- Amsterdam private rooms — 14.4% convert within 30 days  
+- Amsterdam private rooms - 14.4% convert within 30 days  
 
 NYC hotel rooms show particularly weak performance:
 
@@ -134,7 +134,7 @@ airbnb-growth-analysis/
 ├── scripts/
 │   └── run_queries.py
 ├── assets/
-│   ├── dashboard_screenshot.png
+│   ├── airbnb-growth-analysis-dashboard.png
 │   └── airbnb-growth-analysis.twb
 ├── requirements.txt
 └── README.md
@@ -182,9 +182,9 @@ https://insideairbnb.com/get-the-data
 
 **Public datasets used:**
 
-- New York City — 36,261 listings  
-- London — 106,512 listings  
-- Amsterdam — 10,456 listings  
+- New York City - 36,261 listings  
+- London - 106,512 listings  
+- Amsterdam - 10,456 listings  
 
 Raw datasets are not committed due to file size.
 
