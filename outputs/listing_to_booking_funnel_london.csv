@@ -1,0 +1,21 @@
+room_type,funnel_stage,listing_count,total_in_room_type,pct_of_room_type,avg_days_to_first_booking,median_days_to_first_booking
+Entire home/apt,Stage 1: Never Booked,13993,62705,22.3,,
+Entire home/apt,Stage 2: Booked within 30 days,2739,62705,4.4,17.0,18.0
+Entire home/apt,Stage 3: Booked within 90 days,3419,62705,5.5,55.0,53.0
+Entire home/apt,Stage 4: Booked within 1 year,5579,62705,8.9,211.0,200.0
+Entire home/apt,Stage 5: Took over 1 year,36975,62705,59.0,2139.0,2073.0
+Hotel room,Stage 1: Never Booked,16,108,14.8,,
+Hotel room,Stage 2: Booked within 30 days,4,108,3.7,22.0,22.0
+Hotel room,Stage 3: Booked within 90 days,17,108,15.7,55.0,54.0
+Hotel room,Stage 4: Booked within 1 year,16,108,14.8,215.0,207.0
+Hotel room,Stage 5: Took over 1 year,55,108,50.9,1141.0,969.0
+Private room,Stage 1: Never Booked,10042,33489,30.0,,
+Private room,Stage 2: Booked within 30 days,2340,33489,7.0,16.0,16.0
+Private room,Stage 3: Booked within 90 days,1941,33489,5.8,55.0,53.0
+Private room,Stage 4: Booked within 1 year,3057,33489,9.1,207.0,199.0
+Private room,Stage 5: Took over 1 year,16109,33489,48.1,1914.0,1726.0
+Shared room,Stage 1: Never Booked,45,210,21.4,,
+Shared room,Stage 2: Booked within 30 days,9,210,4.3,13.0,12.0
+Shared room,Stage 3: Booked within 90 days,14,210,6.7,60.0,58.0
+Shared room,Stage 4: Booked within 1 year,15,210,7.1,184.0,156.0
+Shared room,Stage 5: Took over 1 year,127,210,60.5,2149.0,2342.0

@@ -1,0 +1,6 @@
+host_tier,metric_used,host_count,tier_value,avg_listings_per_host,pct_of_total
+Top 1% of hosts,estimated_revenue_l365d,559,293169514.0,23.4,45.2
+Top 5% of hosts,estimated_revenue_l365d,2226,163454164.0,5.4,25.2
+Top 10% of hosts,estimated_revenue_l365d,2782,81104506.0,2.4,12.5
+Top 20% of hosts,estimated_revenue_l365d,5564,76252300.0,1.7,11.7
+Top 50% of hosts,estimated_revenue_l365d,44515,34988026.0,1.2,5.4

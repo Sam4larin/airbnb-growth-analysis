@@ -1,0 +1,7 @@
+host_tier,metric_used,host_count,tier_value,avg_listings_per_host,pct_of_total
+Top 1% of hosts,reviews_proxy,216,212330.0,12.4,21.4
+Top 5% of hosts,reviews_proxy,864,260099.0,3.3,26.2
+Top 10% of hosts,reviews_proxy,1071,171758.0,3.7,17.3
+Top 20% of hosts,reviews_proxy,2192,186953.0,1.9,18.9
+Top 50% of hosts,reviews_proxy,6751,148287.0,1.5,15.0
+Bottom 50% of hosts,reviews_proxy,10371,12213.0,1.2,1.2
